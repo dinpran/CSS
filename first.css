@@ -1,0 +1,95 @@
+body {
+    /* color: violet; */
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: #ffcf79;
+}
+h1 {
+    /* color: violet;
+    background-color:red;
+    border-bottom: 1px solid black; */
+    /* border-width: thick,thin,medium; */
+    /* text-decoration: line-through; */
+    /* border-style:dashed; */
+    /* border-bottom-style: dashed; */
+    text-decoration: underline;
+}
+h2{
+    color: orange;
+}
+h1{
+    font-size: 150%;
+}
+h2{
+    font-size: 1.2em;
+    line-height: 1.2em;
+}
+p.hhh {
+    color: gold;
+    font-size: 25px;
+    font-family: helvetica;
+}
+p.ggg{
+    color: gray;
+    background-color: blue;
+    padding: 25px;
+    border-color: gray;
+    /* border-radius: 10px; */
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-style: solid;
+}
+.para1{
+    color: gold;
+    font-size: 25px;
+    font-family: helvetica;
+    font-style: italic;
+}
+.para3{
+    color: gray;
+    background-color: blue;
+    padding: 25px;
+    border-color: gray;
+    border-radius: 2px;
+    border-style: solid;
+}
+.para4{
+    color: gray;
+    background-color: blue;
+    padding: 25px;
+    border-color: gray;
+    border-radius: 2px;
+    border-style: solid;
+    margin: 70px,20px, 20px, 20px;
+    /* top,right,bottom, left, */
+    margin-top: 50px;
+    margin-right: 50px;
+    background-image: url(lion.png);
+}
+.underline{
+    border-bottom: 1px solid gray;
+}
+
+.imagec{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    background-color: silver;
+    border-color: gray;
+    border-radius: 2px;
+    border-style: solid;
+}
+
+.par{
+    font-family: Helvetica;
+}
+
+#p{
+    background-color: aqua;
+    /* text-align: center;
+    text-align: left; 
+    text-align: right; */
+}
